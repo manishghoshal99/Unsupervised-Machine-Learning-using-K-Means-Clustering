@@ -30,6 +30,6 @@ represent it visually.<br>
 [github]: https://github.com/manishghoshal99
 
 
-     If you have any Queries or Suggestions, feel free to reach out to me! 
+If you have any Queries or Suggestions, feel free to reach out to me! 
 
 <h3 align="center">Show some &nbsp;❤️&nbsp; By Starring Some Of The Repositories!</h3>
