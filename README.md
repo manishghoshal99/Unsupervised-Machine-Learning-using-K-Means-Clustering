@@ -28,3 +28,8 @@ represent it visually.<br>
 [gmail]: mailto:meloidasdragneel12@gmail.com
 [linkedin]: https://www.linkedin.com/in/manish-ghoshal-454ba0205/
 [github]: https://github.com/manishghoshal99
+
+
+If you have any Queries or Suggestions, feel free to reach out to me.
+
+<h3 align="center">Show some &nbsp;❤️&nbsp; By Starring Some Of The Repositories!</h3>
