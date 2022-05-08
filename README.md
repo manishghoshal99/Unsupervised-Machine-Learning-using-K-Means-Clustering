@@ -14,8 +14,8 @@ represent it visually.<br>
 
 > Demo:
 <a href="...">Prediction using Unsupervised ML</a>
-<br><br>
 
+<br><br>
 <p align="center">
   <b><i>Let's connect! Find me on the web xD</i></b>
 
