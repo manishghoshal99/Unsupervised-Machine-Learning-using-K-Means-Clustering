@@ -3,10 +3,11 @@
 <br>
 
 > Problem Statement:
-- From the given ‘Iris’ dataset, predict the optimum number of clusters and
+
+⦿ From the given ‘Iris’ dataset, predict the optimum number of clusters and
 represent it visually.<br>
-- Use R or Python or perform this task<br>
-- Here is the dataset :
+⦿ Use R or Python or perform this task<br>
+⦿ Here is the dataset :
 <a href="https://github.com/manishghoshal99/Unsupervised-Machine-Learning-using-K-Means-Clustering/blob/main/iris.csv">Dataset.csv</a><br><br>
 > Solution:
 <a href="https://github.com/manishghoshal99/Unsupervised-Machine-Learning-using-K-Means-Clustering/blob/main/Unsupervised%20Machine%20Learning%20using%20K-Means%20Clustering.ipynb"> Prediction using UnSupervised ML</a>
