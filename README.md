@@ -13,7 +13,7 @@ represent it visually.<br>
 <a href="https://github.com/manishghoshal99/Unsupervised-Machine-Learning-using-K-Means-Clustering/blob/main/Unsupervised%20Machine%20Learning%20using%20K-Means%20Clustering.ipynb"> Prediction using UnSupervised ML</a>
 
 > Demo:
-<a href="...">Prediction using Unsupervised ML</a>
+<a href="https://youtu.be/Vg_U65zvVNI">Prediction using Unsupervised ML</a>
 
 <br><br>
 <p align="center">
